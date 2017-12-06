@@ -1,6 +1,6 @@
  <!-- Identifica los elementos de navegación en los siguientes sites -->
 
- ### Elementos de navegación
+ ## Elementos de navegación
 
 ### Breather
  ![Con titulo](assets/imagen1.jpg "titulo")
